@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\karim\\source\\repos\\specification-pattern\\demo\\0 - before\\SpecificationPattern.Demo\\SpecificationPattern.Demo\\SpecificationPattern.Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\karim\\source\\repos\\specification-pattern\\demo\\0 - before\\SpecificationPattern.Demo\\SpecificationPattern.Demo\\SpecificationPattern.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karim\\source\\repos\\specification-pattern\\demo\\0 - before\\SpecificationPattern.Demo\\SpecificationPattern.Demo\\SpecificationPattern.Demo.csproj",
+        "projectName": "SpecificationPattern.Demo",
+        "projectPath": "C:\\Users\\karim\\source\\repos\\specification-pattern\\demo\\0 - before\\SpecificationPattern.Demo\\SpecificationPattern.Demo\\SpecificationPattern.Demo.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karim\\source\\repos\\specification-pattern\\demo\\0 - before\\SpecificationPattern.Demo\\SpecificationPattern.Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://link-dev.pkgs.visualstudio.com/ac6107cd-c36c-4834-b35a-a36a212a2b80/_packaging/LinkDev.Culture.ElasticModels/nuget/v3/index.json": {},
+          "https://link-dev.pkgs.visualstudio.com/ac6107cd-c36c-4834-b35a-a36a212a2b80/_packaging/LinkDev.Culture.Gateway.UserAuthentication/nuget/v3/index.json": {},
+          "https://link-dev.pkgs.visualstudio.com/ac6107cd-c36c-4834-b35a-a36a212a2b80/_packaging/LinkDev.Extensions/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

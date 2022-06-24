@@ -1,0 +1,17 @@
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\SpecificationPattern.Demo.exe
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\SpecificationPattern.Demo.deps.json
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\SpecificationPattern.Demo.runtimeconfig.json
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\SpecificationPattern.Demo.dll
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\SpecificationPattern.Demo.pdb
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.csproj.AssemblyReference.cache
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.AssemblyInfoInputs.cache
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.AssemblyInfo.cs
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.csproj.CopyComplete
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.dll
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\refint\SpecificationPattern.Demo.dll
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.pdb
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\SpecificationPattern.Demo.genruntimeconfig.cache
+C:\Users\karim\source\repos\specification-pattern\demo\0 - before\SpecificationPattern.Demo\SpecificationPattern.Demo\obj\Debug\net6.0\ref\SpecificationPattern.Demo.dll

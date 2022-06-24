@@ -1,0 +1,68 @@
+[
+  {
+    "isActive": true,
+    "age": 30,
+    "eyeColor": "Blue",
+    "name": "Kareem Kamel",
+    "gender": "male",
+    "email": "kareemkamel@linkdev.com",
+    "registered": "2022-04-25T05:35:15 -02:00",
+    "tags": [
+      "developer",
+      "culture",
+      "elasticsearch"
+    ]
+  },
+  {
+    "isActive": false,
+    "age": 30,
+    "eyeColor": "Brown",
+    "name": "Eslam Afifi",
+    "gender": "male",
+    "email": "eslamafifi@twitter.com",
+    "registered": "2021-02-05T05:05:23 -02:00",
+    "tags": [
+      "identity",
+      "trump",
+      "against socialism"
+    ]
+  },
+  {
+    "isActive": true,
+    "age": 27,
+    "eyeColor": "Blue",
+    "name": "Ata Sabri",
+    "gender": "male",
+    "email": "atasabri@linkdev.com",
+    "registered": "2019-07-26T03:56:36 -02:00",
+    "tags": [
+      "unit testing"
+    ]
+  },
+  {
+    "isActive": false,
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Sherine Ibrahim",
+    "gender": "female",
+    "email": "sherine.ibrahim@amazon.com",
+    "registered": "2012-11-01T02:45:31 -02:00",
+    "tags": [
+      "Sushi",
+      "Koshri",
+      "Ma7shi"
+    ]
+  },
+  {
+    "isActive": true,
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Nehal Ramadan",
+    "gender": "female",
+    "email": "suzanneroth@google.com",
+    "registered": "2012-01-19T11:20:55 -02:00",
+    "tags": [
+      "problem solving"
+    ]
+  }
+]
